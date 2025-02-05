@@ -1,4 +1,4 @@
-# Stochastic Gradient Descent Neural Network in Pure C
+ # Stochastic Gradient Descent Neural Network in Pure C
 
 A lightweight, efficient neural network implementation using **stochastic gradient descent (SGD)**, written entirely in **pure C**. This project focuses on performance, simplicity, and a low-level understanding of neural network mechanics without the overhead of external libraries.
 
@@ -97,4 +97,3 @@ This project is licensed under the MIT License.
 ---
 
 **Note:** This project is intended for educational purposes, demonstrating the fundamental principles of neural networks and SGD in C.
-
