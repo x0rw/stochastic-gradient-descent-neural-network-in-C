@@ -2,14 +2,14 @@
 
 A lightweight, efficient neural network implementation using **stochastic gradient descent (SGD)**, written entirely in **pure C**. This project focuses on performance, simplicity, and a low-level understanding of neural network mechanics without the overhead of external libraries.
 
-## 🚀 Features
+## Features
 
 - Fully connected feedforward neural network architecture
 - Stochastic Gradient Descent (SGD) for training
 - Dynamic network topology (adjustable layers and neurons)
 - No dependencies—written in pure C
 
-## 🧠 How It Works
+## How It Works
 
 The core of this neural network relies on:
 
@@ -17,13 +17,6 @@ The core of this neural network relies on:
 2. **Backpropagation:** Calculates gradients for each weight to minimize error.
 3. **Stochastic Gradient Descent:** Updates weights using gradients from random subsets (mini-batches) of data.
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/sgd-neural-network-c.git
-cd sgd-neural-network-c
-make
-```
 
 ## 📝 Usage
 
